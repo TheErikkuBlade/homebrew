@@ -18826,8 +18826,30 @@
                 "type": "dice",
                 "toRoll": [
                   {
-                    "number": 3,
-                    "faces": 6
+                    "number": 2,
+                    "faces": 8
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "dice",
+                "toRoll": [
+                  {
+                    "number": 2,
+                    "faces": 8
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "dice",
+                "toRoll": [
+                  {
+                    "number": 2,
+                    "faces": 8
                   }
                 ]
               }
@@ -18838,7 +18860,7 @@
                 "toRoll": [
                   {
                     "number": 3,
-                    "faces": 6
+                    "faces": 8
                   }
                 ]
               }
@@ -18849,7 +18871,51 @@
                 "toRoll": [
                   {
                     "number": 3,
-                    "faces": 6
+                    "faces": 8
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "dice",
+                "toRoll": [
+                  {
+                    "number": 3,
+                    "faces": 8
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "dice",
+                "toRoll": [
+                  {
+                    "number": 3,
+                    "faces": 10
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "dice",
+                "toRoll": [
+                  {
+                    "number": 3,
+                    "faces": 10
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "type": "dice",
+                "toRoll": [
+                  {
+                    "number": 3,
+                    "faces": 10
                   }
                 ]
               }
@@ -18860,7 +18926,7 @@
                 "toRoll": [
                   {
                     "number": 4,
-                    "faces": 6
+                    "faces": 10
                   }
                 ]
               }
@@ -18871,7 +18937,7 @@
                 "toRoll": [
                   {
                     "number": 4,
-                    "faces": 6
+                    "faces": 10
                   }
                 ]
               }
@@ -18882,7 +18948,7 @@
                 "toRoll": [
                   {
                     "number": 4,
-                    "faces": 6
+                    "faces": 10
                   }
                 ]
               }
@@ -18893,7 +18959,7 @@
                 "toRoll": [
                   {
                     "number": 5,
-                    "faces": 6
+                    "faces": 10
                   }
                 ]
               }
@@ -18904,73 +18970,7 @@
                 "toRoll": [
                   {
                     "number": 5,
-                    "faces": 6
-                  }
-                ]
-              }
-            ],
-            [
-              {
-                "type": "dice",
-                "toRoll": [
-                  {
-                    "number": 5,
-                    "faces": 6
-                  }
-                ]
-              }
-            ],
-            [
-              {
-                "type": "dice",
-                "toRoll": [
-                  {
-                    "number": 5,
-                    "faces": 6
-                  }
-                ]
-              }
-            ],
-            [
-              {
-                "type": "dice",
-                "toRoll": [
-                  {
-                    "number": 5,
-                    "faces": 6
-                  }
-                ]
-              }
-            ],
-            [
-              {
-                "type": "dice",
-                "toRoll": [
-                  {
-                    "number": 5,
-                    "faces": 6
-                  }
-                ]
-              }
-            ],
-            [
-              {
-                "type": "dice",
-                "toRoll": [
-                  {
-                    "number": 5,
-                    "faces": 6
-                  }
-                ]
-              }
-            ],
-            [
-              {
-                "type": "dice",
-                "toRoll": [
-                  {
-                    "number": 5,
-                    "faces": 6
+                    "faces": 10
                   }
                 ]
               }
@@ -20394,7 +20394,7 @@
             ],
             [
               4,
-              10,
+              11,
               2,
               "{@filter 5th|spells|level=5|class=Warlock}",
               5,
@@ -20402,7 +20402,7 @@
             ],
             [
               4,
-              11,
+              12,
               3,
               "{@filter 5th|spells|level=5|class=Warlock}",
               6,
@@ -20410,7 +20410,7 @@
             ],
             [
               4,
-              11,
+              13,
               3,
               "{@filter 5th|spells|level=5|class=Warlock}",
               6,
@@ -20418,7 +20418,7 @@
             ],
             [
               4,
-              12,
+              14,
               3,
               "{@filter 5th|spells|level=5|class=Warlock}",
               7,
@@ -20426,7 +20426,7 @@
             ],
             [
               4,
-              12,
+              15,
               3,
               "{@filter 5th|spells|level=5|class=Warlock}",
               7,
@@ -20434,7 +20434,7 @@
             ],
             [
               4,
-              13,
+              16,
               3,
               "{@filter 5th|spells|level=5|class=Warlock}",
               8,
@@ -20442,7 +20442,7 @@
             ],
             [
               4,
-              13,
+              17,
               3,
               "{@filter 5th|spells|level=5|class=Warlock}",
               8,
@@ -20450,7 +20450,7 @@
             ],
             [
               4,
-              14,
+              18,
               4,
               "{@filter 5th|spells|level=5|class=Warlock}",
               9,
@@ -20458,7 +20458,7 @@
             ],
             [
               4,
-              14,
+              19,
               4,
               "{@filter 5th|spells|level=5|class=Warlock}",
               9,
@@ -20466,7 +20466,7 @@
             ],
             [
               4,
-              15,
+              20,
               4,
               "{@filter 5th|spells|level=5|class=Warlock}",
               10,
@@ -20474,7 +20474,7 @@
             ],
             [
               4,
-              15,
+              20,
               4,
               "{@filter 5th|spells|level=5|class=Warlock}",
               10,
@@ -23414,8 +23414,8 @@
                 "type": "dice",
                 "toRoll": [
                   {
-                    "number": 1,
-                    "faces": 10
+                    "number": 2,
+                    "faces": 8
                   }
                 ]
               },
@@ -23430,8 +23430,8 @@
                 "type": "dice",
                 "toRoll": [
                   {
-                    "number": 1,
-                    "faces": 10
+                    "number": 2,
+                    "faces": 8
                   }
                 ]
               },
@@ -23446,8 +23446,8 @@
                 "type": "dice",
                 "toRoll": [
                   {
-                    "number": 1,
-                    "faces": 10
+                    "number": 2,
+                    "faces": 8
                   }
                 ]
               },
@@ -23462,8 +23462,8 @@
                 "type": "dice",
                 "toRoll": [
                   {
-                    "number": 1,
-                    "faces": 10
+                    "number": 2,
+                    "faces": 8
                   }
                 ]
               },
@@ -23478,8 +23478,8 @@
                 "type": "dice",
                 "toRoll": [
                   {
-                    "number": 1,
-                    "faces": 10
+                    "number": 2,
+                    "faces": 8
                   }
                 ]
               },
@@ -23494,8 +23494,8 @@
                 "type": "dice",
                 "toRoll": [
                   {
-                    "number": 1,
-                    "faces": 10
+                    "number": 2,
+                    "faces": 8
                   }
                 ]
               },
@@ -23510,8 +23510,8 @@
                 "type": "dice",
                 "toRoll": [
                   {
-                    "number": 1,
-                    "faces": 12
+                    "number": 2,
+                    "faces": 10
                   }
                 ]
               },
@@ -23526,8 +23526,8 @@
                 "type": "dice",
                 "toRoll": [
                   {
-                    "number": 1,
-                    "faces": 12
+                    "number": 2,
+                    "faces": 10
                   }
                 ]
               },
@@ -23542,8 +23542,8 @@
                 "type": "dice",
                 "toRoll": [
                   {
-                    "number": 1,
-                    "faces": 12
+                    "number": 2,
+                    "faces": 10
                   }
                 ]
               },
@@ -23558,8 +23558,8 @@
                 "type": "dice",
                 "toRoll": [
                   {
-                    "number": 1,
-                    "faces": 12
+                    "number": 2,
+                    "faces": 10
                   }
                 ]
               },
@@ -23577,6 +23577,7 @@
         "Martial Arts|Monk|TACS|1",
         "Martial Style|Monk|TACS|1",
         "Ki|Monk|TACS|2",
+        "Step of the Wind|Monk|TACS|2",
         "Dedicated Weapon|Monk|TACS|2",
         "Unarmored Movement|Monk|TACS|2",
         "Deflect Missiles|Monk|TACS|3",
@@ -34747,7 +34748,7 @@
           "name": "Spellcasting Focus",
           "type": "entries",
           "entries": [
-            "You can use a {@item Divination Focus|FW} (found above) as a spellcasting focus for your Fate Weaver spells."
+            "You can use a {@item Divination Focus|TACS} (found above) as a spellcasting focus for your Fate Weaver spells."
           ]
         }
       ],
@@ -35239,16 +35240,16 @@
       "page": 0
     },
     {
-      "name": "Expertise",
       "source": "TACS",
       "page": 0,
       "className": "Rogue",
       "classSource": "TACS",
       "level": 1,
       "entries": [
-        "At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with {@item thieves' tools|phb}}. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.",
-        "At 9th level, you can choose two more of your proficiencies (in skills or with {@item thieves' tools|phb}}) to gain this benefit."
-      ]
+        "At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with {@item thieves' tools|phb}). Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.",
+        "At 9th level, you can choose two more of your proficiencies (in skills or with {@item thieves' tools|phb}) to gain this benefit."
+      ],
+      "name": "Expertise"
     },
     {
       "name": "Sneak Attack",
@@ -35261,7 +35262,7 @@
         "Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra {@damage 1d6} damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.",
         "You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't {@condition incapacitated}, and you don't have disadvantage on the attack roll.",
         "The amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the Rogue table.",
-        "If you were hidden from the target, or if the target was surprised, the extra damage from your sneak attack increases by 1d6."
+        "If you were hidden from the target, or if the target was surprised, the extra damage from your sneak attack increases by {@dice 1d6}. This bonus becomes {@dice 2d8} at 7th level and {@dice 3d10} at 13th level."
       ]
     },
     {
@@ -35387,7 +35388,7 @@
       "classSource": "TACS",
       "level": 9,
       "entries": [
-        "At 9th level, you can choose two more of your proficiencies (in skills or with {@item thieves' tools|phb}}) to gain the benefit of Expertise."
+        "At 9th level, you can choose two more of your proficiencies (in skills or with {@item thieves' tools|phb}) to gain the benefit of Expertise."
       ]
     },
     {
@@ -37589,13 +37590,13 @@
       "level": 1,
       "entries": [
         "Your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are shortswords and any simple melee weapons that don't have the two-handed or heavy property.",
-        "You gain the following benefits while you are unarmed or wielding only monk weapons and you aren't wearing armor or wielding a shield.",
+        "You gain the following benefits while you are unarmed or wielding only monk weapons and you aren't wearing heavy armor or wielding a shield.",
         {
           "type": "list",
           "items": [
             "You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and monk weapons. In addition, your unarmed strikes also count as simple weapons.",
-            "You can roll a {@dice d6} in place of the normal damage of your unarmed strike or monk weapon. This is known as your martial arts die. This die changes as you gain monk levels, becoming a d8 at 5th level, a d10 at 11th level, and a d12 at 17th level.",
-            "When you use the {@action Attack} action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the {@action Attack} action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven't already taken a bonus action this turn."
+            "You can roll {@dice 1d6} in place of the normal damage of your unarmed strike or monk weapon. This is known as your martial arts dice. This changes as you gain monk levels, becoming {@dice 1d8} at 5th level, {@dice 2d8} at 11th level, and {@dice 2d10} at 17th level. If you use the versatile property of a monk weapon, you add a +2 bonus to the damage roll.",
+            "When you use the {@action Attack} action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the {@action Attack} action and attack with a {@item quarterstaff|phb}, you can also make an unarmed strike as a bonus action, assuming you haven't already taken a bonus action this turn."
           ]
         },
         "Certain monasteries use specialized forms of the monk weapons. For example, you might use a club that is two lengths of wood connected by a short chain (called a nunchaku) or a sickle with a shorter, straighter blade (called a kama)."
@@ -37675,21 +37676,6 @@
       ]
     },
     {
-      "name": "Flurry of Blows",
-      "source": "TACS",
-      "page": 0,
-      "className": "Monk",
-      "classSource": "TACS",
-      "level": 2,
-      "header": 2,
-      "consumes": {
-        "name": "Ki"
-      },
-      "entries": [
-        "Immediately after you take the {@action Attack} action on your turn, you can spend 1 ki point to make two unarmed strikes as a bonus action."
-      ]
-    },
-    {
       "name": "Ki",
       "source": "TACS",
       "page": 0,
@@ -37698,7 +37684,7 @@
       "level": 2,
       "entries": [
         "Starting at 2nd level, your training allows you to harness the mystic energy of ki. Your access to this energy is represented by a number of ki points. Your monk level determines the number of points you have, as shown in the Ki Points column of the Monk table.",
-        "You can spend these points to fuel various ki features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind. You learn more ki features as you gain levels in this class.",
+        "You can spend these points to fuel various ki features. You start knowing two such features: Flurry of Blows and Patient Defense. You learn more ki features as you gain levels in this class.",
         "When you spend a ki point, it is unavailable until you finish a short or long rest, at the end of which you draw all of your expended ki back into yourself. You must spend at least 30 minutes of the rest meditating to regain your ki points.",
         "Some of your ki features require your target to make a saving throw to resist the feature's effects. The saving throw DC is calculated as follows:",
         {
@@ -37718,13 +37704,24 @@
             {
               "type": "refClassFeature",
               "classFeature": "Patient Defense|Monk|TACS|2"
-            },
-            {
-              "type": "refClassFeature",
-              "classFeature": "Step of the Wind|Monk|TACS|2"
             }
           ]
         }
+      ]
+    },
+    {
+      "name": "Flurry of Blows",
+      "source": "TACS",
+      "page": 0,
+      "className": "Monk",
+      "classSource": "TACS",
+      "level": 2,
+      "header": 2,
+      "consumes": {
+        "name": "Ki"
+      },
+      "entries": [
+        "Immediately after you take the {@action Attack} action on your turn, you can spend 1 ki point to make two unarmed strikes as a bonus action."
       ]
     },
     {
@@ -37749,12 +37746,12 @@
       "className": "Monk",
       "classSource": "TACS",
       "level": 2,
-      "header": 2,
+      "header": 1,
       "consumes": {
         "name": "Ki"
       },
       "entries": [
-        "You can spend 1 ki point to take the {@action Disengage} or {@action Dash} action as a bonus action on your turn, and your jump distance is doubled for the turn."
+        "Starting at 2nd level, you can take the {@action Disengage} or {@action Dash} action as a bonus action on your turn, and your jump distance is doubled for the turn."
       ]
     },
     {
@@ -37765,7 +37762,7 @@
       "classSource": "TACS",
       "level": 2,
       "entries": [
-        "Starting at 2nd level, your speed increases by 10 feet while you are not wearing armor or wielding a shield. This bonus increases when you reach certain monk levels, as shown in the Monk table.",
+        "Starting at 2nd level, your speed increases by 10 feet while you are not wearing heavy armor or wielding a shield. This bonus increases when you reach certain monk levels, as shown in the Monk table.",
         "At 9th level, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the move."
       ]
     },
@@ -37823,7 +37820,7 @@
       "classSource": "TACS",
       "level": 4,
       "entries": [
-        "At 4th level, as an action you can spend 2 ki points and roll a Martial Arts die. You regain a number of hit points equal to the number rolled plus your proficiency bonus."
+        "At 4th level, as a bonus action you can spend 1 ki point and roll your Martial Arts dice. You regain a number of hit points equal to the number rolled plus your proficiency bonus."
       ]
     },
     {
@@ -37868,7 +37865,7 @@
       "classSource": "TACS",
       "level": 5,
       "entries": [
-        "Starting at 5th level, you can interfere with the flow of ki in an opponent's body. When you hit another creature with a melee weapon attack, you can spend 1 ki point to attempt a stunning strike. The target must succeed on a Constitution saving throw or be {@condition stunned} until the end of your next turn."
+        "Starting at 5th level, you can interfere with the flow of ki in an opponent's body. When you hit another creature with a melee weapon attack, you can attempt a stunning strike. The target must succeed on a Constitution saving throw or be {@condition stunned} until the end of your next turn. You can use this feature a number of times equal to your proficiency bonus, regaining all expended uses when you finish a long rest. While you have no remaining uses of this feature, you can expend 1 ki point to use it again."
       ]
     },
     {
@@ -38012,7 +38009,7 @@
       "classSource": "TACS",
       "level": 15,
       "entries": [
-        "At 15th level, your ki sustains you so that you suffer none of the frailty of old age, and you can't be aged magically. You can still die of old age, however. In addition, you no longer need food or water."
+        "At 15th level, your ki sustains you so that you suffer none of the frailty of old age, and you can't be aged magically. You can still die of old age, however. In addition, you no longer need food or water. In addition, you no longer need food or water. In addition, when you finish a short rest, your exhaustion level, if any, is decreased by 1."
       ]
     },
     {
@@ -38049,7 +38046,7 @@
       "classSource": "TACS",
       "level": 18,
       "entries": [
-        "Beginning at 18th level, by spending 10 minutes, you can enter a perfect meditative state and project yourself to a faraway place. During this time, your body's can't move, speak, is blinded, deafened, and incapacitated. You remain in this state for up to 8 hours, until you are reduced to 0 hit points, fall unconscious, or die.",
+        "Beginning at 18th level, by spending 10 minutes, you can enter a perfect meditative state and project yourself to a faraway place. During this time, your body's can't move, speak, is {@condition blinded}, {@condition deafened}, and {@condition incapacitated}. You remain in this state for up to 8 hours, until you are reduced to 0 hit points, fall unconscious, or die.",
         "Once you've entered this state, choose a place you or one of your allies have been to or are currently at either on your current plane of existence or a different one. If you are trapped by an imprisonment spell or similar magic, you cannot use this feature. You also cannot use this feature if the designated ally is protected from divination magic.",
         "A spectral projection of yourself appears in that chosen place in an unoccupied space you choose, or in an unoccupied space next to an ally within that place. The projection appears like you, but you can choose whether it looks the same age as you, younger, older, and what clothes it is wearing. This projection allows you to see, hear, move, and take actions within that area as you normally would if you were actually there. The projection uses your statistics and has your equipment, including magic items. When it takes damage, you also take that damage. A banishment spell dismisses the projection on a failed saving throw, ending your meditative state. Only one spectral projection of yourself can exist at any given time.",
         "Once you've used this feature, you cannot do so again until you finish a long rest. While you have no uses available, you can spend 4 ki points to use this feature again."
@@ -38077,7 +38074,7 @@
       "classSource": "TACS",
       "level": 20,
       "entries": [
-        "Beginning at 20th level, you've ascended to peak enlightenment, granting you mastery over ki. As an action, you can regain a number of ki equal to one roll of your martial arts die plus your  Wisdom modifier. You can use this action once, regaining the ability to do so again after you finish a long rest.",
+        "Beginning at 20th level, you've ascended to peak enlightenment, granting you mastery over ki. As an action, you can regain a number of ki equal to one roll of your martial arts dice plus your Wisdom modifier. You can use this action once, regaining the ability to do so again after you finish a long rest.",
         "In addition, your mastery of ki grants you proficiency in all saving throws."
       ]
     },
@@ -56993,7 +56990,6 @@
       "header": 1,
       "entries": [
         "Also at 3rd level, you can channel destructive waves of energy, like those created by the dragons you emulate. When you take the Attack action on your turn, you can replace one of the attacks with an exhalation of draconic energy in either a 20-foot cone or a 30-foot line that is 5 feet wide (your choice). Each creature in that area must make a Dexterity saving throw against your ki save DC, taking damage equal to two rolls of your Martial Arts die on a failed save, or half as much damage on a successful one. The damage type is determined by the choice you made for your Draconic Origin benefit from your Draconic Disciple feature.",
-        "At 11th level, the damage of this feature increases to three rolls of your Martial Arts die.",
         "You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest. While you have no uses available, you can spend 2 ki points to use this feature again."
       ]
     },
@@ -57107,7 +57103,7 @@
             {
               "type": "item",
               "name": "Augment Breath",
-              "entry": "When you use your Breath of the Dragon, you can spend 1 ki point to augment its shape and power. The exhalation of draconic energy becomes either a 60-foot cone or a 90-foot line that is 5 feet wide (your choice), and each creature in that area takes damage equal to five rolls of your Martial Arts die on a failed save, or half as much damage on a successful one."
+              "entry": "When you use your Breath of the Dragon, you can spend 1 ki point to augment its shape and power. The exhalation of draconic energy becomes either a 60-foot cone or a 90-foot line that is 5 feet wide (your choice), and each creature in that area takes damage equal to three rolls of your Martial Arts die on a failed save, or half as much damage on a successful one."
             },
             {
               "type": "item",
@@ -57117,7 +57113,7 @@
             {
               "type": "item",
               "name": "Explosive Fury",
-              "entry": "When you activate your Aspect of the Wyrm, the aura becomes a 30-feet, and draconic fury explodes from you. Choose any number of creatures you can see in your aura. Each of those creatures must succeed on a Dexterity saving throw against your ki save DC or take 3d12 damage, or half as much on a success. The damage type is determined by the choice you made for your Draconic Origin benefit from your Draconic Disciple feature."
+              "entry": "When you activate your Aspect of the Wyrm, the aura becomes a 30-feet, and draconic fury explodes from you. Choose any number of creatures you can see in your aura. Each of those creatures must succeed on a Dexterity saving throw against your ki save DC or take {@dice 4d10} damage, or half as much on a success. The damage type is determined by the choice you made for your Draconic Origin benefit from your Draconic Disciple feature."
             },
             {
               "type": "item",
@@ -57593,7 +57589,7 @@
       "level": 6,
       "header": 2,
       "entries": [
-        "You gain the ability to heal yourself. As an action, you can regain hit points equal to three times your monk level. You must finish a long rest before you can use this feature again."
+        "At 6th level, you gain the ability to heal yourself during moments of respite. When you roll hit dice during a short rest to restore hit points, you can treat each hit die you spend as if you rolled the maximum possible number on the die."
       ]
     },
     {
@@ -57608,7 +57604,7 @@
       "level": 11,
       "header": 2,
       "entries": [
-        "Beginning at 11th level, you can enter a special meditation that surrounds you with an aura of peace. At the end of a long rest, you gain the effect of a {@spell sanctuary} spell that lasts until the start of your next long rest (the spell can end early as normal). The saving throw DC for the spell equals 8 + your Wisdom modifier + your proficiency bonus."
+        "Beginning at 11th level, you can enter a special meditation that surrounds you with an aura of peace. At the end of a short or long rest, you gain the effect of a {@spell sanctuary} spell that lasts until the start of your next long rest (the spell can end early as normal). The saving throw DC for the spell equals 8 + your Wisdom modifier + your proficiency bonus."
       ]
     },
     {
@@ -57742,7 +57738,7 @@
       "level": 6,
       "header": 2,
       "entries": [
-        "At 6th level, you gain the ability to unsettle or terrify those around you as an action, for your soul has been touched by the shadow of death. When you take this action, each creature within 30 feet of you that can see you must succeed on a Wisdom saving throw or be {@condition frightened} of you until the end of your next turn."
+        "At 6th level, you gain the ability to unsettle or terrify those around you as an action, for your soul has been touched by the shadow of death. When you take this action, each creature you choose within 30 feet of you that can see you must succeed on a Wisdom saving throw or be {@condition frightened} of you until the end of your next turn."
       ]
     },
     {
@@ -58152,7 +58148,7 @@
       "level": 3,
       "header": 1,
       "entries": [
-        "At 3rd level, you learn how to twist and turn quickly as part of your Flurry of Blows. Whenever you use Flurry of Blows, you gain the benefit of the {@action Disengage} action, and your walking speed increases by 10 feet until the end of the current turn."
+        "At 3rd level, you learn how to twist and turn quickly as part of your Flurry of Blows. Whenever you use Flurry of Blows, you gain the benefit of the {@action Disengage} action, your walking speed increases by 10 feet until the end of the current turn, and you have advantage on the first attack made with your flurry of blows."
       ]
     },
     {
@@ -58219,7 +58215,7 @@
       "level": 11,
       "header": 2,
       "entries": [
-        "Starting at 11th level, you always seem to get a lucky bounce at the right moment. When you make an ability check, an attack roll, or a saving throw and have disadvantage on the roll, you can spend 2 ki points to cancel the disadvantage for that roll."
+        "Starting at 11th level, you always seem to get a lucky bounce at the right moment. When you make an ability check, an attack roll, or a saving throw and have disadvantage on the roll, you can choose to not have disadvantage. You can do so a number of times equal to your proficiency bonus, regaining all expended uses when you finish a long rest. While you have no uses of this feature remaining, you can spend 1 ki point to use it again."
       ]
     },
     {
@@ -58318,7 +58314,7 @@
       "subclassSource": "TACS",
       "level": 3,
       "entries": [
-        "You can use a bonus action on your turn to make your ranged attacks with a kensei weapon more deadly. When you do so, any target you hit with a ranged attack using a kensei weapon takes an extra {@damage 1d4} damage of the weapon's type. You retain this benefit until the end of the current turn."
+        "When you make a ranged attack when you take the {@condition Attack} action using a ranged kensei weapon on your turn, you can use a bonus action to make an attack with that same weapon. "
       ]
     },
     {
@@ -58410,8 +58406,7 @@
       "header": 1,
       "entries": [
         "Starting when you choose this tradition at 3rd level, you can hurl searing bolts of magical radiance.",
-        "You gain a new attack option that you can use with the {@action Attack} action. The special attack is a ranged spell attack with a range of 30 feet. You are proficient with it, and you add your Dexterity modifier to its attack and damage rolls. Its damage is radiant, and its damage die is a {@dice d4}. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.",
-        "When you take the {@action Attack} action on your turn and use this special attack as part of it, you can spend 1 ki point to make the special attack twice as a bonus action. When you gain the Extra Attack feature, this special attack can be used for any of the attacks you make as part of the {@action Attack} action."
+        "You gain a new attack option that you can make on your turn. The special attack is a ranged spell attack with a range of 30 feet. You are proficient with it, and you add your Dexterity modifier to its attack and damage rolls. Its damage is radiant, and its damage die is equal to your martial arts dice. You can make this special attack as part of your {@action Attack} action, replacing any number of attacks you make as part of that action, and you can attack with it as a bonus action. When you use your Flurry of Blows, you can replace one or both attacks with a radiant sun bolt."
       ]
     },
     {
@@ -58425,8 +58420,8 @@
       "level": 6,
       "header": 2,
       "entries": [
-        "At 6th level, you gain the ability to channel your ki into searing waves of energy. Immediately after you take the {@action Attack} action on your turn, you can spend 2 ki points to cast the {@spell burning hands} spell as a bonus action.",
-        "You can spend additional ki points to cast {@spell burning hands} as a higher-level spell. Each additional ki point you spend increases the spell's level by 1. The maximum number of ki points (2 plus any additional points) that you can spend on the spell equals half your monk level."
+        "At 6th level, you gain the ability to channel your ki into searing waves of energy. Immediately after you take the {@action Attack} action on your turn, you can spend 1 ki points to cast the {@spell burning hands} spell as a bonus action.",
+        "You can spend additional ki points to cast {@spell burning hands} as a higher-level spell. Each additional ki point you spend increases the spell's level by 1. The maximum number of ki points (1 plus any additional points) that you can spend on the spell equals half your monk level."
       ]
     },
     {
@@ -58441,8 +58436,8 @@
       "header": 2,
       "entries": [
         "At 11th level, you gain the ability to create an orb of light that erupts into a devastating explosion. As an action, you magically create an orb and hurl it at a point you choose within 150 feet, where it erupts into a sphere of radiant light for a brief but deadly instant.",
-        "Each creature in that 20-foot-radius sphere must succeed on a Constitution saving throw or take {@damage 2d6} radiant damage. A creature doesn't need to make the save if the creature is behind total cover that is opaque.",
-        "You can increase the sphere's damage by spending ki points. Each point you spend, to a maximum of 3, increases the damage by {@dice 2d6}."
+        "Each creature in that 20-foot-radius sphere must succeed on a Constitution saving throw or take radiant damage equal to two rolls of your martial arts dice. A creature doesn't need to make the save if the creature is behind total cover that is opaque.",
+        "You can increase the sphere's damage by spending ki points. Each point you spend, to a maximum of 3, increases the damage by an amount equal to your martial arts dice."
       ]
     },
     {
@@ -74130,6 +74125,7 @@
         "Your divine entity is pleased with your efforts, and grants you a larger portion of their power, giving you the following benefits:",
         {
           "type": "list",
+          "style": "list-hang-notitle",
           "items": [
             {
               "type": "entries",
@@ -74358,6 +74354,7 @@
         "Your research has developed further, expanding your ability to cast magic, granting you the following benefits:",
         {
           "type": "list",
+          "style": "list-hang-notitle",
           "items": [
             {
               "type": "entries",
@@ -74391,7 +74388,7 @@
           "type": "list",
           "items": [
             "You gain proficiency with a {@item Disguise Kit|phb} if you don't already have it.",
-            "With one hour of work or when you finish a long rest, you can create a number of uncanny disguises equal to your proficiency bonus. Occupation of the disguise determines the cost of materials for making them. The occupation table below lists the prices for each disguise. Each disguise is expertly made with extra time dedicated to them. While wearing one of these disguises, a creature is given a bonus to their Charisma (Deception) checks to look like a member of that occupation equal to your proficiency bonus."
+            "With one hour of work or when you finish a long rest, you can create a number of uncanny disguises equal to your proficiency bonus. Occupation of the disguise determines the cost of materials for making them. The occupation table below lists the prices for each disguise. Each disguise is expertly made with extra time dedicated to them. While wearing one of these disguises, a creature is given a bonus to their Charisma ({@skill Deception}) checks to look like a member of that occupation equal to your proficiency bonus."
           ]
         },
         {
@@ -74440,7 +74437,7 @@
           "type": "list",
           "items": [
             "You gain proficiency with {@item thieves' tools|phb} if you don't already have it.",
-            "If you roll a 5 or lower on the d20 for an ability check using your thieves' tools, a Dexterity (Stealth), or a Dexterity (Sleight of Hand) check, you can use your reaction to reroll the d20. You must use the new result when you use this feature."
+            "If you roll a 5 or lower on the d20 for an ability check using your thieves' tools, a Dexterity ({@skill Stealth}), or a Dexterity ({@skill Sleight of Hand}) check, you can use your reaction to reroll the d20. You must use the new result when you use this feature."
           ]
         }
       ]
@@ -74453,7 +74450,7 @@
         {
           "type": "list",
           "items": [
-            "You have advantage on Charisma (Performance) checks made when trying to entertain a crowd or draw attention towards you.",
+            "You have advantage on Charisma ({@skill Performance}) checks made when trying to entertain a crowd or draw attention towards you.",
             "When you use the help action to distract a creature and give an ally advantage on an attack roll, you can do so from up to 60 feet away from the target being distracted, provided they can hear or see you."
           ]
         }
@@ -74495,7 +74492,7 @@
         {
           "type": "list",
           "items": [
-            "By spending at least 10 minutes you can enter a state of keen focus, giving you advantage on Intelligence (Investigation) and Wisdom (Perception) checks for the next hour. During this time, you cannot concentrate on spells. If you take damage while in this state, you must make a concentration check as if you were concentrating on a spell. If you fail, your state of focus immediately ends.",
+            "By spending at least 10 minutes you can enter a state of keen focus, giving you advantage on Intelligence ({@skill Investigation}) and Wisdom ({@skill Perception}) checks for the next hour. During this time, you cannot concentrate on spells. If you take damage while in this state, you must make a concentration check as if you were concentrating on a spell. If you fail, your state of focus immediately ends.",
             "You have advantage on ability checks made when participating in the Research Downtime Activity, provided you do so in total isolation."
           ]
         }
@@ -74509,8 +74506,8 @@
         {
           "type": "list",
           "items": [
-            "If you roll a 5 or lower on the d20 for a Charisma (Persuasion) check, you can spend your reaction to reroll the d20. You must use the new result when you use this feature.",
-            "You have advantage on Intelligence (History) checks made to recall information on nobility and royalty within your country."
+            "If you roll a 5 or lower on the d20 for a Charisma ({@skill Persuasion}) check, you can spend your reaction to reroll the d20. You must use the new result when you use this feature.",
+            "You have advantage on Intelligence ({@skill History}) checks made to recall information on nobility and royalty within your country."
           ]
         }
       ]
@@ -74556,7 +74553,7 @@
               "type": "entries",
               "name": "War Cry",
               "entries": [
-                "As a bonus action, you release outward a powerful war cry to inspire you and your allies. Roll 1d10 and add your proficiency bonus, you and each creature within 30 feet of you that can hear you gain temporary hit points equal to the result and they have advantage on their next attack roll. You can use this benefit twice, regaining all expended uses when you finish a long rest."
+                "As a bonus action, you release outward a powerful war cry to inspire you and your allies. Roll {@dice 1d10} and add your proficiency bonus, you and each creature within 30 feet of you that can hear you gain temporary hit points equal to the result and they have advantage on their next attack roll. You can use this benefit twice, regaining all expended uses when you finish a long rest."
               ]
             }
           ]
@@ -74571,9 +74568,42 @@
         {
           "type": "list",
           "items": [
-            "You have advantage on Wisdom (Insight) checks made to determine if someone is lying.",
+            "You have advantage on Wisdom ({@skill Insight}) checks made to determine if someone is lying.",
             "You have a particular artistry for making scams and conning people out of money for your own benefit. While in a populated area, you can spend an hour of work attempting to scam people. Make a Charisma (Deception) check with a flat DC of 15 (the DM may introduce higher or lower DCs depending on certain circumstances). On a success, you can earn a number of gp equal to 10 times your proficiency bonus. On a fail, you make half as much, unless you fail by 5 or more, which earns you nothing."
           ]
+        }
+      ]
+    },
+    {
+      "name": "Ki Expert",
+      "source": "TACS",
+      "entries": [
+        "Your meditation and practice has allowed you to channel the magical life energies of ki. You gain 2 ki points, which replenish after a short or long rest. You can use these ki points for any features that uses ki, or for one of the following features by spending 1 ki point for each:",
+        {
+          "type": "list",
+          "style": "list-hang-notitle",
+          "items": [
+            {
+              "type": "item",
+              "name": "Ki Strike",
+              "entries": [
+                "When you hit with a weapon or spell attack, you can expend a ki point to add an additional damage die to the attack."
+              ]
+            },
+            {
+              "type": "item",
+              "name": "Ki Protection",
+              "entries": [
+                "When you would be hit by an attack, you can expend a ki point as a reaction to add a bonus to your AC equal to your proficiency bonus against the triggering attack, potentially causing the attack to miss."
+              ]
+            }
+          ]
+        },
+        "You can take this feat multiple times, gaining an additional 2 ki points each time you do."
+      ],
+      "prerequisite": [
+        {
+          "level": 4
         }
       ]
     }
